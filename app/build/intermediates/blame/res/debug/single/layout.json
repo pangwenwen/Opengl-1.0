@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\workspace\\LearnOpenGL1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\basic_render.xml",
+        "source": "D:\\android\\workspace\\LearnOpenGL1\\app\\src\\main\\res\\layout\\basic_render.xml"
+    },
+    {
+        "merged": "D:\\android\\workspace\\LearnOpenGL1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\android\\workspace\\LearnOpenGL1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
